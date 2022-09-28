@@ -1,5 +1,3 @@
-import java.util.Stack;
-
 class App {
     
     //Movie guesser game that reads movies from file like fill in the blanks
